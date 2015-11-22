@@ -1,0 +1,5 @@
+name: log
+type: module
+description: Log entity
+core: 8.x
+package: Other

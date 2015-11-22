@@ -1,0 +1,15 @@
+add log entities:
+  title: 'Create new Log entities'
+
+administer log entities:
+  title: 'Administer Log entities'
+  description: 'Allow to access the administration form to configure Log entities.'
+
+delete log entities:
+  title: 'Delete Log entities'
+
+edit log entities:
+  title: 'Edit Log entities'
+
+view log entities:
+  title: 'View Log entities'

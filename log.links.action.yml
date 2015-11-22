@@ -1,0 +1,7 @@
+entity.log.add_form:
+  route_name: entity.log.add_form
+  title: 'Add Log'
+  appears_on:
+    - entity.log.collection
+    - entity.log.canonical
+

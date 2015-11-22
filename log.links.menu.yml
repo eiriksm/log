@@ -1,0 +1,12 @@
+# Log menu items definition
+entity.log.collection:
+  title: 'Log list'
+  route_name: entity.log.collection
+  description: 'List Log entities'
+
+log.admin.structure.settings:
+  title: Log settings
+  description: 'Configure Log entities'
+  route_name: log.settings
+  parent: system.admin_structure
+
